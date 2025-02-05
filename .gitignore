@@ -21,7 +21,6 @@ val/
 
 # Ignore model files and training history (optional)
 *.h5
-*.keras
 *.pkl
 
 # Ignore system files
