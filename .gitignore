@@ -38,5 +38,5 @@ logs/
 .idea/
 *.swp
 
-# # Ignore Git-related files
-# .gitignore
+# Ignore Git-related files
+.gitignore
